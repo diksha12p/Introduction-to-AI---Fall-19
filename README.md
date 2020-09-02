@@ -16,7 +16,7 @@ To run the programs, just use the python ```AssignmentFolderName/CodeFolderName/
 
 
 ## Status
-Project is: _in complete_. 
+Project is: _complete_. 
 
 ## Contents
 
