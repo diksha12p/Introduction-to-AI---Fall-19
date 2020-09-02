@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# Introduction to Arificial Intelligence
 
 ![](https://img.shields.io/badge/language-Python-green.svg)
 ![](https://img.shields.io/badge/%3E-Artificial_Intelligence-yellow.svg)
@@ -7,7 +7,7 @@
 
 # Description
 
-This repository contains solutions to various assignments for the 'Artificial Intelligence' course offered by the CSE department at Rutgers University in Fall'19 and instructed by [Dr.Cowan](https://www.cs.rutgers.edu/people/professors/details/charles-cowan) 
+This repository contains solutions to various assignments for the 'Introduction to Artificial Intelligence' course offered by the CSE department at Rutgers University in Fall'19 and instructed by [Dr.Cowan](https://www.cs.rutgers.edu/people/professors/details/charles-cowan) 
 
 DISCLAIMER: Please use them for reference purpose only. Blatant copy will defeat the purpose of taking the course. 
 
